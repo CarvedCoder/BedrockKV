@@ -1,0 +1,3 @@
+Hello this is just a test file which i am reading to make sure the mmap is working correctly
+
+symbols : !@#$%^&*()_+=-<>?""'';{}[],|\/
